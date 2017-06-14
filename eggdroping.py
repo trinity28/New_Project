@@ -26,5 +26,6 @@ def findMinTrials(n,k):
 		
 
 	return l[n][k]
+print "minimum nmber of trials required="
 print findMinTrials(2,100)
 
